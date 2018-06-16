@@ -13,7 +13,7 @@ The idea is to make a bot that moves by following a black line on white surface 
 <ul>
 <li><a href="">Nitin Yadav</a></li>
 <li><a href="https://www.facebook.com/shubhanshu.agarwal.750">Shubhanshu Agarwal</a></li>
-<li><a href="https://www.facebook.com/shashwat.agrawal.58">Shashwat Maheshwari</a></li>
+<li><a href="https://www.facebook.com/shashwat.agrawal.58">Shashwat Agarwal</a></li>
 </ul>
 
 # Pre-Requisites
