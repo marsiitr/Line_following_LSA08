@@ -4,40 +4,39 @@
 # Abstract
 The idea is to make a bot that moves by following a black line on white surface with the help of an Advanced Auto-Calibrating Line Sensor (LSA08). Bot design consists of 3 wheels- 2 plastic wheels driven by DC motors and a motor driver and 1 castor wheel.
 # Team Members
-<ul>
-<li ><a href="https://www.facebook.com/prrachiagarwal2230473">Prachi Agarwal</a></li>
-<li><a href="https://www.facebook.com/riya.bhalla.587">Riya Bhalla</a></li>
-</ul>
+
+* <a href="https://www.facebook.com/prrachiagarwal2230473">Prachi Agarwal</a></li>
+* <a href="https://www.facebook.com/riya.bhalla.587">Riya Bhalla</a></li>
+
 
 # Mentors
-<ul>
-<li><a href="">Nitin Yadav</a></li>
-<li><a href="https://www.facebook.com/shubhanshu.agarwal.750">Shubhanshu Agarwal</a></li>
-<li><a href="https://www.facebook.com/shashwat.agrawal.58">Shashwat Agarwal</a></li>
-</ul>
+
+* <a href="">Nitin Yadav</a></li>
+* <a href="https://www.facebook.com/shubhanshu.agarwal.750">Shubhanshu Agarwal</a></li>
+* <a href="https://www.facebook.com/shashwat.agrawal.58">Shashwat Agarwal</a></li>
+
 
 # Pre-Requisites
  
  <b>Hardware:</b>
-<ol>
-<li>Arduino UNO/MEGA</li>
-<li>Advanced Auto-Calibrating Line Sensor (LSA08) </li>
-<li>Motor Driver L298N</li>
-  <li>DC Motor-2 </li>
-<li>LiPo battery 11.1V</li>
-  <li>Ball Castor</li>  
-  <li>Plastic Wheel-2</li>
-  <li>USB B Type Cable</li>
-<li>7805</li>
-<li>Jumper Wires</li>
-<li>Breadboard</li>
-  <li>DST</li>
-<li>Wooden Base (dia.52cm)</li>
-<li>L Channels</li>
-<li>Motor Mount</li>
-<li>Some 3d printed Parts</li> 
- 
-</ol>
+
+1.Arduino UNO/MEGA</li>
+1.Advanced Auto-Calibrating Line Sensor (LSA08) </li>
+1.Motor Driver L298N</li>
+1.DC Motor-2 </li>
+1.LiPo battery 11.1V</li>
+1.Ball Castor</li>  
+1.Plastic Wheel-2</li>
+1.USB B Type Cable</li>
+1.7805</li>
+1.Jumper Wires</li>
+1.Breadboard</li>
+  1.DST
+1.Wooden Base (dia.52cm)
+1.L Channels
+1. Motor Mount
+1.Some 3d printed Parts 
+
 
  <b>Software:</b>
  
