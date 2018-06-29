@@ -46,8 +46,8 @@ The idea is to make a bot that moves by following a black line on white surface 
  
 1. <b>LSA08</b>-LSA08 (Advance Line Following Sensor Bar) consist of 8 sensors pair. LSA08 is typically used for embedded system or robots for line following task. The specially selected wavelength of super bright green LED as the sensor’s transmitter enables LSA08 to operate on various different colour surfaces. LSA08 is capable to operate on surface with colour of Red, Green, Blue, White, Black, Gray and possibly other colours with distinct brightness different. LSA08 has several different output modes, for the convenience of use for any system. Namely, the digital output port (8 parallel output line), the serial communication port (UART) and the analog output port.
 
-       '''
-       ######Features
+       
+       Features
               
            * 8 sensor pairs spaced 16mm.
            * 12V input power
@@ -60,7 +60,7 @@ The idea is to make a bot that moves by following a black line on white surface 
            * Low current consumption (typically 26mA)
            * Works on glossy or reflective surface
            * Refresh rate up to 200Hz.
-       '''      
+    
         
  
  1. The overall processes of line-following are: detect position of the line, adjust motor speed to align the line at the center, and repeat.
